@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; flex-direction: column-reverse;">
+        <ui:VisualElement style="flex-direction: row; flex-wrap: nowrap; justify-content: center; flex-basis: 15%; align-items: center; position: relative; transform-origin: center;">
+            <ui:Button text="Building 1" display-tooltip-when-elided="true" name="Building1" />
+            <ui:Button text="Building 2" display-tooltip-when-elided="true" name="Building2" style="align-items: stretch;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
