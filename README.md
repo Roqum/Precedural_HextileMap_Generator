@@ -11,3 +11,6 @@ Two Perlin Noise functions are used to assign land type to each hex-tile. One is
 Two buttons are added which will allow you to build a building on the grid map. These building will automatically snap to the nearest hex-tile to the mouse position. 
 Last but not least, a simple "W,A,S,D" movement is added to the camera so that the map can be explored.
 
+### Demo Videos
+https://www.david-burgstaller.com/mapGenerator
+
